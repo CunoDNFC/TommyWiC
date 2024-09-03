@@ -85,30 +85,43 @@ Arithmetic operations, decrement and increment
 #### Print
 
 `Yeah, you can say that again` expression 
+
 `Yeah, you can say that again` 'str' 
 
 #### Conditional Statements
 
 if:   `I have an announcement to make. We are expecting`
+
        expression 
        statements 
+       
 elif: `Alright, let's toss the ball around` 
+
        expression 
        statements 
+       
 else: `Anyway, how is your sex life?`
+
        statements 
+       
 endif:`I'm tired. I'm wasted. I love you, darling`
 
 #### While
 `This is a great party, you invited all my friends`
+
 expression 
+
 statements
+
 `Everybody betray me. I'm fed up with this world!`
 
 #### Try/Except
 `Just what sort of perverted filth are you planning to use operations for?`
+
 operations
+
 `Come on, stop. It was a mistake`
+
 operations
 ________________________________________________________________________________________________________________________
 ## To comment the line:
@@ -116,7 +129,7 @@ ________________________________________________________________________________
 `Keep your stupid comments in your pocket` any ignored stuff here
 ________________________________________________________________________________________________________________________
 ## In progress
-####(but that's not certain)
+###### (but that's not certain)
 
 0. [ ] furious debagging
 1. [ ] methods
