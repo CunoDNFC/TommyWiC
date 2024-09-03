@@ -82,13 +82,13 @@ var `is just a` expression `CHEEP CHEEP CHEEP! `
 #### Operations:
 Arithmetic operations, decrement and increment
 
-#### Print
+#### Print:
 
 `Yeah, you can say that again` expression 
 
 `Yeah, you can say that again` 'str' 
 
-#### Conditional Statements
+#### Conditional Statements:
 
 if:   `I have an announcement to make. We are expecting`
 
@@ -106,7 +106,7 @@ else: `Anyway, how is your sex life?`
        
 endif:`I'm tired. I'm wasted. I love you, darling`
 
-#### While
+#### While:
 `This is a great party, you invited all my friends`
 
 expression 
@@ -115,7 +115,7 @@ statements
 
 `Everybody betray me. I'm fed up with this world!`
 
-#### Try/Except
+#### Try/Except:
 `Just what sort of perverted filth are you planning to use operations for?`
 
 operations
@@ -128,7 +128,7 @@ ________________________________________________________________________________
 
 `Keep your stupid comments in your pocket` any ignored stuff here
 ________________________________________________________________________________________________________________________
-## In progress
+## In progress:
 ###### (but that's not certain)
 
 0. [ ] furious debugging
