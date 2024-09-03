@@ -131,7 +131,7 @@ ________________________________________________________________________________
 ## In progress
 ###### (but that's not certain)
 
-0. [ ] furious debagging
+0. [ ] furious debugging
 1. [ ] methods
 2. [ ] static typing
 3. [ ] adding new types
