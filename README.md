@@ -116,9 +116,11 @@ statements
 `Everybody betray me. I'm fed up with this world!`
 
 #### Try/Except:
-`Just what sort of perverted filth are you planning to use operations for?`
+`Just what sort of perverted filth are you planning to use`
 
 operations
+
+ `for?`
 
 `Come on, stop. It was a mistake`
 
