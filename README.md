@@ -1,6 +1,6 @@
 # TommyWiC
 
-A small esoteric programming language inspired by quotes from the cult movie [Room](https://www.imdb.com/title/tt0368226/) by Tommy Wiseau.
+A small esoteric programming language inspired by quotes from the cult movie [The Room](https://www.imdb.com/title/tt0368226/) by Tommy Wiseau.
 With all due respect to [ArnoldC](https://github.com/lhartikk/ArnoldC)
 
 Based on python3, ANTLR4 grammar, interface with tkinter 
