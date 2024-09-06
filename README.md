@@ -22,7 +22,8 @@ after installing the requirements:
 
 (pip install -r /path/to/requirements.txt)
 
-    antlr4 -Dlanguage=Python3 -visitor -no-listener grammar/TommyWiC.g4
+    cd grammar
+    antlr4 -Dlanguage=Python3 -visitor -no-listener TommyWiC.g4
 
 * If you want to use an interface window:`main/main.py`
 
