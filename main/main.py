@@ -1,14 +1,11 @@
 import tkinter as tk
 from tkinter import Menu, Text, INSERT, END, filedialog, messagebox, simpledialog
 from text_markdown import parse_markdown
-from dotenv import load_dotenv
 import io, sys, re, os
 from grammar.TommyWiCParser import TommyWiCParser
 from grammar.TommyWiCLexer import TommyWiCLexer
 from antlr4 import InputStream, CommonTokenStream
 from customVisitor import customVisitor
-
-load_dotenv()
 
 start_phrase = 'Oh hi Mark'
 end_phrase = 'What a story, Mark'

@@ -2,5 +2,4 @@ antlr4-python3-runtime
 antlr4-tools
 install-jdk
 tk
-python-dotenv
 tkintermd

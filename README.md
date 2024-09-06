@@ -22,14 +22,15 @@ after installing the requirements:
 
 (pip install -r /path/to/requirements.txt)
 
-    cd grammar
+    cd main/grammar
     antlr4 -Dlanguage=Python3 -visitor -no-listener TommyWiC.g4
+    cd ../
 
-* If you want to use an interface window:`main/main.py`
+* If you want to use an interface window:`main.py`
 
 
 * If for some bad reason you want to type everything by hand without saving and cleaning:
-`main/customVisitor.py`
+`customVisitor.py`
 
 ## Short guide
 
