@@ -18,19 +18,29 @@ Based on python3, ANTLR4 grammar, interface with tkinter
 
 ## Quick start
 
-after installing the requirements:
+If you want to set up a virtual environment:
 
-(pip install -r /path/to/requirements.txt)
+    python -m venv tommyenv
+
+...and activate your venv:
+
+    source tommyenv/bin/activate #*nix(Linux, macOS)
+    tommyenv\Scripts\activate    #Windows
+
+Set dependencies:
+
+    pip install -r requirements.txt
+
+Generate lexer, parser and visitor files:*
 
     cd main/grammar
     antlr4 -Dlanguage=Python3 -visitor -no-listener TommyWiC.g4
     cd ../
 
-* If you want to use an interface window:`main.py`
+*or simply copy the files from the generated folder into the grammar folder
 
+Then `main.py` and enjoy!
 
-* If for some bad reason you want to type everything by hand without saving and cleaning:
-`customVisitor.py`
 
 ## Short guide
 
